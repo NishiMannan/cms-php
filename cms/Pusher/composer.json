@@ -1,0 +1,12 @@
+{
+    "name": "gauriksharma/pusher",
+    "authors": [
+        {
+            "name": "Nishi Kanta",
+            "email": "mannan.nishi@gmail.com"
+        }
+    ],
+    "require": {
+        "pusher/pusher-php-server": "^4.1"
+    }
+}
